@@ -1,0 +1,206 @@
+[
+  {
+    "source": "P1_DETALLADO.glb",
+    "dae": "P1_PARQUE.dae",
+    "units": "m",
+    "scale": "1:1",
+    "up_axis": "Y_UP",
+    "vertices": 166025,
+    "triangles": 116746,
+    "mesh_count": 57,
+    "nodes": 57,
+    "textures": 18,
+    "scene_bounds_gltf": [
+      [
+        -49.09080219268799,
+        -1.1499999538064003,
+        103.71183013916016
+      ],
+      [
+        73.39624309539795,
+        13.385000228881836,
+        235.3767318725586
+      ]
+    ],
+    "bytes": 18565317,
+    "sha256": "cd7e627f5d984d1d0adcf88043b7dbb888f500d648df2510eedbe556e652a4ab",
+    "validated_xml_references_arrays_transforms_textures": true,
+    "native_sketchup_application_test": false,
+    "independent_reader": "pycollada 0.9.3",
+    "independent_reader_pass": true,
+    "detail_counts": {
+      "fuentes": 1,
+      "arboles": 51,
+      "bancas": 16,
+      "farolas": 13
+    },
+    "park": "P1",
+    "zip": "P1_PARQUE_DAE.zip",
+    "zip_bytes": 2442526,
+    "zip_sha256": "59cc8b43bac3db88dfe2e5f5b72c7c78cd1d24804f1bab28abaa6cb1f55b6729"
+  },
+  {
+    "source": "P2_DETALLADO.glb",
+    "dae": "P2_PARQUE.dae",
+    "units": "m",
+    "scale": "1:1",
+    "up_axis": "Y_UP",
+    "vertices": 128985,
+    "triangles": 92025,
+    "mesh_count": 51,
+    "nodes": 51,
+    "textures": 17,
+    "scene_bounds_gltf": [
+      [
+        40.24301528930664,
+        -1.1499999538064003,
+        -17.906204223632812
+      ],
+      [
+        124.5035514831543,
+        13.385000228881836,
+        59.11656188964844
+      ]
+    ],
+    "bytes": 14579509,
+    "sha256": "c39549ada2b12a4a8f8d29d67713a3e5299decd7219236cfb7b4812dac65fdba",
+    "validated_xml_references_arrays_transforms_textures": true,
+    "native_sketchup_application_test": false,
+    "independent_reader": "pycollada 0.9.3",
+    "independent_reader_pass": true,
+    "detail_counts": {
+      "fuentes": 2,
+      "pergolas": 1,
+      "arboles": 25,
+      "bancas": 3,
+      "farolas": 13
+    },
+    "park": "P2",
+    "zip": "P2_PARQUE_DAE.zip",
+    "zip_bytes": 1894557,
+    "zip_sha256": "c1f522c9942189ff45700d2dd3b23902e741dda6ffce75e8ad15da020d89f4d2"
+  },
+  {
+    "source": "P3_DETALLADO.glb",
+    "dae": "P3_PARQUE.dae",
+    "units": "m",
+    "scale": "1:1",
+    "up_axis": "Y_UP",
+    "vertices": 135022,
+    "triangles": 91710,
+    "mesh_count": 58,
+    "nodes": 58,
+    "textures": 19,
+    "scene_bounds_gltf": [
+      [
+        133.44924545288086,
+        -1.1499999538064003,
+        -567.624755859375
+      ],
+      [
+        261.43054580688477,
+        13.385000228881836,
+        -394.8193359375
+      ]
+    ],
+    "bytes": 15224393,
+    "sha256": "4e54cc7fdb4cd276f192755ac3ecd46cfbc60aad9b2ffe7fc204dd6bbd33dd78",
+    "validated_xml_references_arrays_transforms_textures": true,
+    "native_sketchup_application_test": false,
+    "independent_reader": "pycollada 0.9.3",
+    "independent_reader_pass": true,
+    "detail_counts": {
+      "canales_o_estanques": 2,
+      "pergolas": 1,
+      "fuentes": 1,
+      "arboles": 34,
+      "bancas": 5,
+      "farolas": 18
+    },
+    "park": "P3",
+    "zip": "P3_PARQUE_DAE.zip",
+    "zip_bytes": 2059569,
+    "zip_sha256": "d493497c152883bf5a6320d2dad6cfab514fa9e215c7b6aaa850e46a58d09de6"
+  },
+  {
+    "source": "P4_DETALLADO.glb",
+    "dae": "P4_PARQUE.dae",
+    "units": "m",
+    "scale": "1:1",
+    "up_axis": "Y_UP",
+    "vertices": 165822,
+    "triangles": 115511,
+    "mesh_count": 37,
+    "nodes": 37,
+    "textures": 17,
+    "scene_bounds_gltf": [
+      [
+        314.1101531982422,
+        -1.1499999538064003,
+        -146.71046447753906
+      ],
+      [
+        422.6380157470703,
+        10.1850004196167,
+        -9.927520751953125
+      ]
+    ],
+    "bytes": 19073471,
+    "sha256": "447120c6fd4b9e304fda6102b505119f8e1ed4c5e1e1d165ab9124855d5ad622",
+    "validated_xml_references_arrays_transforms_textures": true,
+    "native_sketchup_application_test": false,
+    "independent_reader": "pycollada 0.9.3",
+    "independent_reader_pass": true,
+    "detail_counts": {
+      "canales_o_estanques": 1,
+      "arboles": 37,
+      "bancas": 14,
+      "farolas": 4
+    },
+    "park": "P4",
+    "zip": "P4_PARQUE_DAE.zip",
+    "zip_bytes": 2466379,
+    "zip_sha256": "cff4746f5a8069627581f4b65155e7ce85785921937bc8f81e80f8c527b4453d"
+  },
+  {
+    "source": "P5_DETALLADO.glb",
+    "dae": "P5_PARQUE.dae",
+    "units": "m",
+    "scale": "1:1",
+    "up_axis": "Y_UP",
+    "vertices": 60584,
+    "triangles": 41238,
+    "mesh_count": 43,
+    "nodes": 43,
+    "textures": 15,
+    "scene_bounds_gltf": [
+      [
+        450.5433883666992,
+        -1.1499999538064003,
+        86.30772399902344
+      ],
+      [
+        519.6492385864258,
+        10.1850004196167,
+        150.89707946777344
+      ]
+    ],
+    "bytes": 6639186,
+    "sha256": "aac00f9c3c77d7ede23d0b1e92e9af5a0d0c5b9c7433ea24563679846f478a7b",
+    "validated_xml_references_arrays_transforms_textures": true,
+    "native_sketchup_application_test": false,
+    "independent_reader": "pycollada 0.9.3",
+    "independent_reader_pass": true,
+    "detail_counts": {
+      "canales_o_estanques": 1,
+      "pergolas": 1,
+      "arboles": 14,
+      "bancas": 2,
+      "farolas": 9
+    },
+    "park": "P5",
+    "zip": "P5_PARQUE_DAE.zip",
+    "zip_bytes": 1052481,
+    "zip_sha256": "f2b3302d9607a23f806d7a86b23de401fa15e60932382c0bde3c56f8a8674711"
+  }
+]
