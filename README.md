@@ -1,5 +1,13 @@
 # Parques de Ferreñafe
 
+## Video con render físico — nueva versión
+
+[Descargar el video renderizado de 2 minutos (ZIP con MP4, Full HD)](https://github.com/kienferquispe085-arch/PROYECTOS-/raw/refs/heads/main/entrega-3d/video-realista/Video_Parques_Ferrenafe_Render_Realista.zip).
+
+[Descargar los modelos de Blender con materiales e iluminación de esta versión (ZIP)](https://github.com/kienferquispe085-arch/PROYECTOS-/raw/refs/heads/main/entrega-3d/video-realista/Modelos_Parques_Render_Realista.zip).
+
+Render con Cycles, luz de cielo y sol, sombras, reflejos y materiales físicos. Se conservan el diseño, las posiciones, las dimensiones y las texturas de color originales. Se mantiene el mismo recorrido de dos minutos. [Detalles y alcance del acabado](entrega-3d/video-realista/LEEME.md).
+
 ## Video de presentación y modelos editables
 
 [Descargar el video de 2 minutos (ZIP con MP4, Full HD)](https://github.com/kienferquispe085-arch/PROYECTOS-/raw/refs/heads/main/entrega-3d/video/Video_Parques_Ferrenafe.zip).
